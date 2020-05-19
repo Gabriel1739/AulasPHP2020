@@ -11,8 +11,8 @@
         <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
           <li class="nav-item">
             <a class="p-4 text-muted" href="?pg=conteudo">Início</a>
-            <a class="p-4 text-muted" href="https://paraiba.com.br/" target="_blank">Cursos</a>
-            <a class="p-4 text-muted" href="https://www.tecmundo.com.br/" target="_blank">Promoções</a>
+            <a class="p-4 text-muted" href="?pg=cursos">Cursos</a>
+            <a class="p-4 text-muted" href="#">Promoções</a>
             <a class="p-4 text-muted" href="?pg=faleconosco">Fale Conosco</a>
             <a class="p-4 text-muted" href="?pg=sobre">Sobre</a>
           </li>

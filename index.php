@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="pt-br">
-  <head>
-    
+  <head> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
@@ -10,8 +9,8 @@
 
     <title>Sobre PRF</title>
   </head>
-  <body>
 
+  <body>
       <?php 
       include_once("db.php");
       include_once("topo.php");   
@@ -24,7 +23,6 @@
                 include_once("$pg.php");
             }
       include_once("rodape.php");
-
       ?>
       
       <p>&nbsp;</p>

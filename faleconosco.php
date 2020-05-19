@@ -4,7 +4,6 @@ session_start();
 
 ?>
 
-
 <div class="container">
     <h3>Fale Conosco</h3>
 
@@ -25,6 +24,5 @@ session_start();
 		Mensagem:<textarea class="form-control" name="mensagem" rows="5" cols="10"></textarea><br>
 		<button type="submit" class="btn btn-primary">Enviar Mensagem</button>
 	</form> 
-
 
 </div>
