@@ -130,13 +130,12 @@
                 </p>
                 <p>
                   Esse sistema foi criado pelos PRFs graduados na área de informática que formaram um núcleo de desenvolvimento de programas para facilitar e melhorar a interatividade entre policial e a população.
-                </p>
-              
+                </p>            
             </div>  
-
           </div>
 
           <aside class="col-md-4 blog-sidebar">
+            <br><br><br>
             <div class="p-3 mb-3 bg-light rounded">
               <h4 class="font-italic">Dados Abertos</h4>
               <p class="mb-0">Dados Abertos são dados publicados em um formato legível por máquina e sem restrição de licenças, patentes ou mecanismos de controle, de modo a estarem livremente disponíveis para serem utilizados e redistribuídos à vontade.</p>

@@ -13,7 +13,7 @@ $row_usuario = mysqli_fetch_assoc($resultado_usuario);
 		<title>Editar Contatos</title>		
 	</head>
 	<body>
-		<a href="listar.php">Listar</a><br>
+		<a href="listar.php">Lista de Mensagens</a><br>
 		<h1>Editar Contatos</h1>
 		<?php
 		if(isset($_SESSION['msg'])){

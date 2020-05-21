@@ -14,7 +14,7 @@
             <p class="lead my-3">Este curso PRF é 100% focado no edital da PRF 2018, abordando todo o conteúdo que você precisa estudar para a prova.
 			Ao adquirir, você terá acesso a uma metodologia única. O curso online para PRF é composto de PDF + Videoaulas + Fórum de Dúvidas + Brinde Especial.</p>
             <br>
-            <a class="btn btn-primary btn-lg" href="#" role="button">Inscrever-se</a>
+            <a class="btn btn-primary btn-lg" href="?pg=faleconosco" role="button">Tenho Interesse</a>
         </div>         
 	</div>
 
@@ -24,7 +24,7 @@
             <p class="lead my-3">Este curso PRF é 100% focado no edital da PRF 2018, abordando todo o conteúdo que você precisa estudar para a prova.
 			Ao adquirir, você terá acesso a uma metodologia única. O curso online para PRF é composto Videoaulas + Fórum de Dúvidas.</p>
             <br>
-            <a class="btn btn-primary btn-lg" href="#" role="button">Inscrever-se</a>
+            <a class="btn btn-primary btn-lg" href="?pg=faleconosco" role="button">Tenho Interesse</a>
         </div>         
 	</div>
 
@@ -34,7 +34,7 @@
             <p class="lead my-3">Este curso PRF é 100% focado no edital da PRF 2018, abordando todo o conteúdo que você precisa estudar para a prova.
 			Ao adquirir, você terá acesso a uma metodologia única. O curso online para PRF é composto de PDF + Fórum de Dúvidas.</p>
             <br>
-            <a class="btn btn-primary btn-lg" href="#" role="button">Inscrever-se</a>
+            <a class="btn btn-primary btn-lg" href="?pg=faleconosco" role="button">Tenho Interesse</a>
         </div>         
 	</div>
 </main>
