@@ -40,8 +40,7 @@ Onde os administradores fazem login para poderem ver as mensagens enviadas para 
 Futuramente pode ser substituido por um botão de registrar e login dos visitantes que desejarem comprar um curso preparatório.
 (Hoje não faz sentido implementar registro e login de visitantes só para ler conteúdo do site!)
 
-Usuário: admin
-Senha: admin
+Usuário: admin  /  Senha: admin
 
 ### Painel de Administrador
 
